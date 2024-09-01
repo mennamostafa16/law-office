@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    min-height: 100vh;
+    background-image: url(../images/p1.jpg) , linear-gradient(rgba(0, 0, 1, 0.652),rgba(0, 0, 1, 0.658));
+    background-position: center;
+    background-size: cover;
+    
+}
